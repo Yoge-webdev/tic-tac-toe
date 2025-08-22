@@ -21,6 +21,5 @@ Players take turns marking spaces on a 3x3 grid until one wins or the game ends 
 ---
 
 ## 📂 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Yoge-webdev/tic-tac-toe.git
+ https://tic-tac-toe-yoge-webdevs-projects.vercel.app/
+   
